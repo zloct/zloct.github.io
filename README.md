@@ -28,4 +28,3 @@ npx hexo server                  # 打开 http://localhost:4000
 - `npx hexo clean`：清理构建缓存，页面显示异常时先执行这个再重新生成
 - 主题美化：在根目录新建 `_config.butterfly.yml` 覆盖主题默认配置，参考 [Butterfly 文档](https://butterfly.js.org/)
 - 站点信息（标题、头像、菜单等）在 `_config.yml` 的 Site 部分
-- 2026 年 1 月的旧站点备份在 `backup-static-202601` 分支，确认不需要后可删除
