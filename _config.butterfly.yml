@@ -8,3 +8,10 @@ avatar:
 
 # 首页顶部横幅大图
 index_img: /img/banner.jpg
+
+# 侧栏作者卡片的 Follow Me 按钮（注意 card_author 位于 aside 下）
+# 主题默认 link 是占位地址 https://github.com/xxxxxx，这里覆盖为真实主页
+aside:
+  card_author:
+    button:
+      link: https://github.com/zloct
